@@ -12,12 +12,3 @@ RTO (Recovery Time Objective): The "Goal Post." How quickly must systems be rest
 
 RPO (Recovery Point Objective): The "Safety Net." How much data loss (in time) is the business willing to tolerate?
 
-**Recovery Strategies:**
-
-This project explores four primary deployment tiers, categorized by cost and recovery speed:
-
-Tier	  Strategy	             Cost	      Recovery Speed
-1	   Backup & Restore	          $	        Slow (Hours/Days)
-2	   Pilot Light                $$	      Moderate (Minutes)
-3	   Warm Standby	              $$$	      Fast (Minutes)
-4	   Hot Standby / Multi-Site	  $$$$	    Near-Instant (Seconds)
