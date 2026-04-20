@@ -1,4 +1,4 @@
-**Disaster Recovery:**
+##Disaster Recovery:##
 
 Disaster Recovery is a set of policies and procedures to enable the recovery or continuation of vital technology infrastructure and systems following a natural or human-induced disaster.
 
